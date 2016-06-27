@@ -12,7 +12,12 @@ import java.util.*;
  * @author alex
  */
 public class Pangrams {
-    
+    /*
+      N^2 algorithm, probably turn it to N implementing hashtable 
+      to know what letter has come up in the string and a count variable
+      to count to 26 for each letter of the alphabet and stop when count has reach 26 or the string ends
+      based on the counter print if it is or isn't a pangram.
+    */
     public static void main (String[] args){
         Scanner in = new Scanner(System.in);
         int alphabet[] = new int[26];
