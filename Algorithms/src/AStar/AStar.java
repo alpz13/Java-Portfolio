@@ -229,9 +229,6 @@ public class AStar<T> {
         graph.addEdge("G", "H", 5);
         graph.addEdge("G", "I", 2);
         
-        
-
-        
         AStar<String> aStar = new AStar<String>(graph);
         for(String path : aStar.Astar("A", "I")){
             System.out.println(path);
