@@ -54,7 +54,7 @@ public class LinkedListNode {
         return head2;
     }
     
-    public void printLikedListNode(){
+    public void printLinkedListNode(){
         LinkedListNode current = head;
         while(current.next != null){
             System.out.print(current.data + " -> ");

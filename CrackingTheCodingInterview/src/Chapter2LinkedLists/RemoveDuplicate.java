@@ -12,16 +12,16 @@ package Chapter2LinkedLists;
 public class RemoveDuplicate {
     public static void main(String[] args){
         LinkedListNode head = new LinkedListNode(0);
-        head.printLikedListNode();
+        head.printLinkedListNode();
         head.addElement(1);
-        head.printLikedListNode();
+        head.printLinkedListNode();
         head.addElement(2);
-        head.printLikedListNode();
+        head.printLinkedListNode();
         head.addElement(2);
         head.addElement(2);
-        head.printLikedListNode();
+        head.printLinkedListNode();
         deleteDup(head);
-        head.printLikedListNode();
+        head.printLinkedListNode();
         
     }
     

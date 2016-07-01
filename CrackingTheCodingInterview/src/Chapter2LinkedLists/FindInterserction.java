@@ -18,18 +18,18 @@ public class FindInterserction {
         p.addElement(2);
         p.addElement(3);
         p.addElement(4);
-        p.printLikedListNode();
+        p.printLinkedListNode();
         
         LinkedListNode q = new LinkedListNode(5);
         q.addElement(6);
-        q.printLikedListNode();
+        q.printLinkedListNode();
         
         
         q.head.next.next = getNthNode(p,2);
-        q.printLikedListNode();
+        q.printLinkedListNode();
         
         LinkedListNode z = findIntersection(p,q);
-        z.printLikedListNode();
+        z.printLinkedListNode();
         
        
         
