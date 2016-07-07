@@ -27,7 +27,8 @@ public class RandomNode {
     should be avoided. since they can cost a lot to the system
     */
     /*
-        A possible solution = generate that random store it in a node or 
+        A possible solution = generate that random store it in a node or int and move to 
+        a location then insert the node
     */
     public RandomNode getRandomNode(){
         int leftSize;
