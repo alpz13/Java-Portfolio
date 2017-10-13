@@ -1,0 +1,14 @@
+Polymorphism
+The capability of a method to act different based on the object that it is acting upon.
+There are two types of polymorphism.
+	
+    Static Polymorphism – Compile polymorphism (Overloading)
+    	It is solved during compiler time.
+	Example: the use of different constructors based on the number of attributes they receive.
+
+    Dynamic Polymorphism – Runtime polymorphism (Overriding)
+        It is solver during run time.
+        Example: Using a method that it implemented on a super class and a sub class.
+
+
+
