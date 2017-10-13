@@ -1,0 +1,24 @@
+
+Difference between Throws, Throw and Throwable
+
+throws clause is used to declare an exception and throw keyword is used to throw an exception explicitly.
+If we see syntax wise then throw is followed by an instance variable and throws is followed by exception class names.
+The keyword throw is used inside method body to invoke an exception and throws clause is used in method declaration (signature).
+
+throw
+
+throw new Exception("You have some exception")
+throw new IOException("Connection failed!!")
+
+throws
+
+public int myMethod() throws IOException, ArithmeticException, NullPointerException {}
+
+throwable
+
+Super class that contents all exceptions.
+
+Error vs Exception
+
+You can recover from an Exception i.e. SQLException, IOException, NullPointerException
+You cannot recover from an Error. They are usually caused by the environment. i.e. StackOverFlow, OutOfMemoryError
