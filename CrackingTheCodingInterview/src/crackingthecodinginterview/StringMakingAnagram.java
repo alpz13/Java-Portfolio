@@ -18,10 +18,10 @@ public class StringMakingAnagram {
 		
 		//Upper to lower case might be needed
 		for(int i = 0 ; i < a.length() ; i++) {
-			frq1[a.charAt(i) - 'a'] = frq1[a.charAt(i) - 'a'] + 1;
+			frq1[a.charAt(i) - 'a']++;
 		}
 		for(int i = 0 ; i < b.length() ; i++) {
-			frq2[b.charAt(i) - 'a'] = frq2[b.charAt(i) - 'a'] + 1;
+			frq2[b.charAt(i) - 'a']++;
 		}
 		
 		for(int i = 0; i < 26; i++) {
