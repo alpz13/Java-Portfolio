@@ -2,7 +2,7 @@ package ThirtyDaysOfCode.DayTwelve;
 
 public class Student extends Person {
 	
-	private int[] testScores;
+	public int[] testScores;
 
 	public Student(String firstName, String lastName, int id, int[] scores) {
 		super(firstName, lastName, id);
