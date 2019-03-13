@@ -32,4 +32,29 @@ public class CheckPermutation {
        return Sort(a).equals(Sort(b));
     }
     
+    
+    //O(n) iterates through the string once. Assuming that A and B are the same length it would be O(A+B) making it O(n)
+    public static boolean permutationV2(String a, String b) {
+    	
+    	if(a.length() != b.length()) {
+    		return false;
+    	}
+    	
+    	int[] letters = new int[128];
+    	
+    	char[] a_array = a.toCharArray();
+    	for(char c: a_array) {
+    		letters[c]++;
+    	}
+    	
+    	for(int i = 0; i < b.length(); i++) {
+    		int index = (int) b.charAt(i);
+    		letters[index]--;
+    		if(letters[index] < 0) {
+    			return false;
+    		}
+    	}
+    	return true;
+    }
+    
 }
