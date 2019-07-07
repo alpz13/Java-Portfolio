@@ -5,7 +5,14 @@
     <br>317 efficient solutions to HackerRank problems
 </p>
 
+* [General Programming](#General-Programming)
 * [30 Days of Code](#30-days-of-code)
+
+# General Programming
+
+| Domain |                                                Challenge                                                | Points |                                                                                   Solution                                                                                  |
+|:---:|:-------------------------------------------------------------------------------------------------------:|:------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|  Warm UP  | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first)                                    |   30   | [Solution.java](https://github.com/alpz13/Java-Portfolio/blob/refactorHack/HackerRankR/WarmUp/SolveMeFirst.java)                       |
 
 
 # 30 Days of Code
