@@ -1,4 +1,3 @@
-package ThirtyDaysOfCode.DayFour;
 
 public class Person {
     private int age;	

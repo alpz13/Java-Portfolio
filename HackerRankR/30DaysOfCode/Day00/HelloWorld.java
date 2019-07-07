@@ -1,4 +1,3 @@
-package ThirtyDaysOfCode.DayZero;
 
 import java.util.Scanner;
 
