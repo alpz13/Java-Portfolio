@@ -4,3 +4,12 @@
     </a>
     <br>317 efficient solutions to HackerRank problems
 </p>
+
+* [30 Days of Code](#30-days-of-code)
+
+
+# 30 Days of Code
+
+| Day |                                                Challenge                                                | Points |                                                                                   Solution                                                                                  |
+|:---:|:-------------------------------------------------------------------------------------------------------:|:------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|  0  | [Hello, World](https://www.hackerrank.com/challenges/30-hello-world)                                    |   30   | [Solution.java](https://github.com/alpz13/Java-Portfolio/blob/refactorHack/HackerRankR/30DaysOfCode/Day00/DataTypes.java)                       |
