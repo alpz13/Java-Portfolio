@@ -6,8 +6,9 @@
 </p>
 
 * [General Programming](#General-Programming)
-* [30 Days of Code](#30-days-of-code)
 * [Java](#Java)
+* [30 Days of Code](#30-days-of-code)
+
 
 # General Programming
 
@@ -20,7 +21,20 @@
 
 | Domain |                                                Challenge                                                | Points |                                                                                   Solution                                                                                  |
 |:---:|:-------------------------------------------------------------------------------------------------------:|:------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|  Introduction  | [Solve Me First](https://www.hackerrank.com/challenges/welcome-to-java/problem)                                    |   3   | [Solution.java](https://github.com/alpz13/Java-Portfolio/blob/refactorHack/HackerRankR/Java/Introduction/Welcome.java)                       |
+|  Introduction  | [Welcome to Java](https://www.hackerrank.com/challenges/welcome-to-java/problem)                                    |   3   | [Solution.java](https://github.com/alpz13/Java-Portfolio/blob/refactorHack/HackerRankR/Java/Introduction/Welcome.java)                       |
+|  Introduction  | [Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem)                                    |   5   | [Solution.java](https://github.com/alpz13/Java-Portfolio/blob/refactorHack/HackerRankR/Java/Introduction/StdInOut.java)                       |
+|  Introduction  | [Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem)                                    |   10   | [Solution.java](https://github.com/alpz13/Java-Portfolio/blob/refactorHack/HackerRankR/Java/Introduction/StdInOut2.java)                       |
+|  Introduction  | [If-Else](https://www.hackerrank.com/challenges/java-if-else/problem)                                    |   10   | [Solution.java](https://github.com/alpz13/Java-Portfolio/blob/refactorHack/HackerRankR/Java/Introduction/IfElse.java)                       |
+|  Introduction  | [Output Formatting](https://www.hackerrank.com/challenges/java-output-formatting/problem)                                    |   10   | [Solution.java](https://github.com/alpz13/Java-Portfolio/blob/refactorHack/HackerRankR/Java/Introduction/OutputFormatting.java)                       |
+|  Introduction  | [Loops I](https://www.hackerrank.com/challenges/java-loops-i/problem)                                    |   10   | [Solution.java](https://github.com/alpz13/Java-Portfolio/blob/refactorHack/HackerRankR/Java/Introduction/LoopsI.java)                       |
+|  Introduction  | [Loops II](https://www.hackerrank.com/challenges/java-loops/problem)                                    |   10   | [Solution.java](https://github.com/alpz13/Java-Portfolio/blob/refactorHack/HackerRankR/Java/Introduction/LoopsII.java)                       |
+|  Introduction  | [Datatypes](https://www.hackerrank.com/challenges/java-datatypes/problem)                                    |   10   | [Solution.java](https://github.com/alpz13/Java-Portfolio/blob/refactorHack/HackerRankR/Java/Introduction/DataTypes.java)                       |
+|  Introduction  | [End of File](https://www.hackerrank.com/challenges/java-end-of-file/problem)                                    |   10   | [Solution.java](https://github.com/alpz13/Java-Portfolio/blob/refactorHack/HackerRankR/Java/Introduction/EndOfFile.java)
+|  Strings  | [Substring](https://www.hackerrank.com/challenges/java-substring/problem)                                    |   5   | [Solution.java](https://github.com/alpz13/Java-Portfolio/blob/refactorHack/HackerRankR/Java/Strings/Substring.java)
+|  Strings  | [Tokens](https://www.hackerrank.com/challenges/java-string-tokens/problem)                                    |   15   | [Solution.java](https://github.com/alpz13/Java-Portfolio/blob/refactorHack/HackerRankR/Java/Strings/Tokens.java)
+|  Object Oriented Programming  | [Inheritance I](https://www.hackerrank.com/challenges/java-inheritance-1/problem)                                    |   5   | [Solution.java](https://github.com/alpz13/Java-Portfolio/blob/refactorHack/HackerRankR/Java/ObjectOrientedProgramming/Bird.java)
+
+
 
 # 30 Days of Code
 
