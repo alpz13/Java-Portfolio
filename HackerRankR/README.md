@@ -7,6 +7,7 @@
 
 * [General Programming](#General-Programming)
 * [30 Days of Code](#30-days-of-code)
+* [Java](#Java)
 
 # General Programming
 
@@ -14,6 +15,12 @@
 |:---:|:-------------------------------------------------------------------------------------------------------:|:------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |  Warm UP  | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first)                                    |   30   | [Solution.java](https://github.com/alpz13/Java-Portfolio/blob/refactorHack/HackerRankR/WarmUp/SolveMeFirst.java)                       |
 
+
+# Java
+
+| Domain |                                                Challenge                                                | Points |                                                                                   Solution                                                                                  |
+|:---:|:-------------------------------------------------------------------------------------------------------:|:------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|  Introduction  | [Solve Me First](https://www.hackerrank.com/challenges/welcome-to-java/problem)                                    |   3   | [Solution.java](https://github.com/alpz13/Java-Portfolio/blob/refactorHack/HackerRankR/Java/Introduction/Welcome.java)                       |
 
 # 30 Days of Code
 
