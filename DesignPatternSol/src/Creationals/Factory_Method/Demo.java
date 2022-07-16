@@ -1,4 +1,8 @@
+package Creationals.Factory_Method;
 
+import Creationals.Factory_Method.factory.Dialog;
+import Creationals.Factory_Method.factory.HtmlDialog;
+import Creationals.Factory_Method.factory.WindowsDialog;
 
 public class Demo {
     private static Dialog dialog;
