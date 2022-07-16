@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="AES_Encryption/src"/>
+	<classpathentry kind="src" path="Algorithms/src"/>
+	<classpathentry kind="src" path="CrackingTheCodingInterview/src"/>
+	<classpathentry kind="src" path="DesignPatterns/Creationals/FactoryMethod/buttons"/>
+	<classpathentry kind="src" path="DesignPatterns/Creationals/FactoryMethod/factory"/>
+	<classpathentry kind="src" path="HackerRank/src"/>
+	<classpathentry excluding="Java/ObjectOrientedProgramming/|30DaysOfCode/Day02/|30DaysOfCode/Day06/|30DaysOfCode/Day13/|30DaysOfCode/Day17/|30DaysOfCode/Day20/|30DaysOfCode/Day24/|30DaysOfCode/Day28/|ProblemSolving/Implementation/|30DaysOfCode/Day14/|30DaysOfCode/Day03/|30DaysOfCode/Day07/|30DaysOfCode/Day10/|30DaysOfCode/Day18/|30DaysOfCode/Day21/|30DaysOfCode/Day25/|30DaysOfCode/Day29/|Java/Strings/|Java/Introduction/|ProblemSolving/|30DaysOfCode/Day00/|30DaysOfCode/Day04/|30DaysOfCode/Day08/|30DaysOfCode/Day11/|30DaysOfCode/Day15/|30DaysOfCode/Day19/|30DaysOfCode/Day22/|30DaysOfCode/Day26/|30DaysOfCode/Day01/|30DaysOfCode/Day05/|30DaysOfCode/Day09/|30DaysOfCode/Day12/|30DaysOfCode/Day16/|30DaysOfCode/Day23/|30DaysOfCode/Day27/" kind="src" path="HackerRankR"/>
+	<classpathentry kind="src" path="HackerRankR/30DaysOfCode/Day00"/>
+	<classpathentry kind="src" path="HackerRankR/30DaysOfCode/Day01"/>
+	<classpathentry kind="src" path="HackerRankR/30DaysOfCode/Day02"/>
+	<classpathentry kind="src" path="HackerRankR/30DaysOfCode/Day03"/>
+	<classpathentry kind="src" path="HackerRankR/30DaysOfCode/Day04"/>
+	<classpathentry kind="src" path="HackerRankR/30DaysOfCode/Day05"/>
+	<classpathentry kind="src" path="HackerRankR/30DaysOfCode/Day06"/>
+	<classpathentry kind="src" path="HackerRankR/30DaysOfCode/Day07"/>
+	<classpathentry kind="src" path="HackerRankR/30DaysOfCode/Day08"/>
+	<classpathentry kind="src" path="HackerRankR/30DaysOfCode/Day09"/>
+	<classpathentry kind="src" path="HackerRankR/30DaysOfCode/Day10"/>
+	<classpathentry kind="src" path="HackerRankR/30DaysOfCode/Day11"/>
+	<classpathentry kind="src" path="HackerRankR/30DaysOfCode/Day12"/>
+	<classpathentry kind="src" path="HackerRankR/30DaysOfCode/Day13"/>
+	<classpathentry kind="src" path="HackerRankR/30DaysOfCode/Day14"/>
+	<classpathentry kind="src" path="HackerRankR/30DaysOfCode/Day15"/>
+	<classpathentry kind="src" path="HackerRankR/30DaysOfCode/Day16"/>
+	<classpathentry kind="src" path="HackerRankR/30DaysOfCode/Day17"/>
+	<classpathentry kind="src" path="HackerRankR/30DaysOfCode/Day18"/>
+	<classpathentry kind="src" path="HackerRankR/30DaysOfCode/Day19"/>
+	<classpathentry kind="src" path="HackerRankR/30DaysOfCode/Day20"/>
+	<classpathentry kind="src" path="HackerRankR/30DaysOfCode/Day21"/>
+	<classpathentry kind="src" path="HackerRankR/30DaysOfCode/Day22"/>
+	<classpathentry kind="src" path="HackerRankR/30DaysOfCode/Day23"/>
+	<classpathentry kind="src" path="HackerRankR/30DaysOfCode/Day24"/>
+	<classpathentry kind="src" path="HackerRankR/30DaysOfCode/Day25"/>
+	<classpathentry kind="src" path="HackerRankR/30DaysOfCode/Day26"/>
+	<classpathentry kind="src" path="HackerRankR/30DaysOfCode/Day27"/>
+	<classpathentry kind="src" path="HackerRankR/30DaysOfCode/Day28"/>
+	<classpathentry kind="src" path="HackerRankR/30DaysOfCode/Day29"/>
+	<classpathentry kind="src" path="HackerRankR/Java/Introduction"/>
+	<classpathentry kind="src" path="HackerRankR/Java/ObjectOrientedProgramming"/>
+	<classpathentry kind="src" path="HackerRankR/Java/Strings"/>
+	<classpathentry excluding="Implementation/" kind="src" path="HackerRankR/ProblemSolving"/>
+	<classpathentry kind="src" path="HackerRankR/ProblemSolving/Implementation"/>
+	<classpathentry kind="src" path="perceptron/src"/>
+	<classpathentry kind="src" path="TrickyInterviewQuestions/src"/>
+	<classpathentry kind="output" path="Algorithms/build/classes"/>
+</classpath>
