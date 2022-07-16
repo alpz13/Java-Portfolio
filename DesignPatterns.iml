@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/Algorithms/build/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/AES_Encryption/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CrackingTheCodingInterview/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DesignPatterns/Creationals/FactoryMethod/buttons" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DesignPatterns/Creationals/FactoryMethod/factory" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HackerRank/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HackerRankR" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HackerRankR/30DaysOfCode/Day00" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HackerRankR/30DaysOfCode/Day01" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HackerRankR/30DaysOfCode/Day02" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HackerRankR/30DaysOfCode/Day03" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HackerRankR/30DaysOfCode/Day04" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HackerRankR/30DaysOfCode/Day05" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HackerRankR/30DaysOfCode/Day06" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HackerRankR/30DaysOfCode/Day07" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HackerRankR/30DaysOfCode/Day08" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HackerRankR/30DaysOfCode/Day09" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HackerRankR/30DaysOfCode/Day10" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HackerRankR/30DaysOfCode/Day11" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HackerRankR/30DaysOfCode/Day12" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HackerRankR/30DaysOfCode/Day13" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HackerRankR/30DaysOfCode/Day14" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HackerRankR/30DaysOfCode/Day15" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HackerRankR/30DaysOfCode/Day16" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HackerRankR/30DaysOfCode/Day17" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HackerRankR/30DaysOfCode/Day18" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HackerRankR/30DaysOfCode/Day19" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HackerRankR/30DaysOfCode/Day20" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HackerRankR/30DaysOfCode/Day21" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HackerRankR/30DaysOfCode/Day22" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HackerRankR/30DaysOfCode/Day23" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HackerRankR/30DaysOfCode/Day24" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HackerRankR/30DaysOfCode/Day25" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HackerRankR/30DaysOfCode/Day26" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HackerRankR/30DaysOfCode/Day27" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HackerRankR/30DaysOfCode/Day28" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HackerRankR/30DaysOfCode/Day29" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HackerRankR/Java/Introduction" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HackerRankR/Java/ObjectOrientedProgramming" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HackerRankR/Java/Strings" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HackerRankR/ProblemSolving" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HackerRankR/ProblemSolving/Implementation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TrickyInterviewQuestions/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/perceptron/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DesignPatterns" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DesignPatterns/Creationals" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DesignPatterns/Creationals/Factory_Method" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DesignPatterns/Creationals/Factory_Method/button" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DesignPatterns/Creationals/Factory_Method/factory" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HackerRankR/30DaysOfCode" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/HackerRankR/Java" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
